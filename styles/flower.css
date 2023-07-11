@@ -104,3 +104,23 @@ padding:  110px 78px   0px 76px;
     gap: 24px;
     justify-content: center;
 }
+.border{
+display: flex;
+gap: 24px;
+justify-content: center;
+margin: 100px 240px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+width: 1440px;
+height: 320px;
+margin-top: 100px;
+
+}
+.icon{
+    padding: 50px 100px;
+}
+.icon-description{
+    color: rgba(39, 39, 39, 0.80);
+font-size: 24px;
+font-weight: 600;
+}
