@@ -29,6 +29,7 @@ width: 634px;
     width: 425px;
 margin-top: 50px;
 margin-right: 600px;
+padding-right: 50px;
 } 
 .btn-primary{
     border-radius: 8px;
@@ -214,7 +215,49 @@ margin: 50px 50px 200px 20px;
    justify-content: center;
    gap: 20px;
 }
-
+/* bonus */
+.about{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+text-align: center;
+padding:15px 15px;
+}
+.about-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.video-choose{
+    display: flex;
+    gap:20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+.video{
+    padding-top: 100px;
+    padding-left: 40px;
+}
+.btn{
+    border-radius: 20px;
+    border: 0;
+    background: #5c5a5a;
+    padding: 20px 43px;
+    gap: 10px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+.why-choose{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.choose-description{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 30px;
+}
 .footer{
     background-color: #111010;
     width: 1400px;
