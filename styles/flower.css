@@ -170,9 +170,50 @@ margin: 50px 50px 200px 230px;
 .instagram{
     margin-top: 150px;
 }
-
-
-
+.email-button{
+    border-radius: 8px;
+background: #FFF;
+width: 700px;
+height: 64px;
+border: 0;
+}
+.hot-deal{
+    border-radius: 8px;
+background-image: url('../Flower Asset/Rectangle\ 9.png');
+background-repeat: no-repeat;
+width: 1440px;
+height: 449px;
+margin: 50px 50px 200px 230px;
+}
+.deal-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+   padding-top: 120px;
+}
+    .deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-3{
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 0;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+.email{
+   display: flex;
+   justify-content: center;
+   gap: 20px;
+}
 
 
 
