@@ -13,7 +13,7 @@ header{
 }
 .title{
     color: #272727;
-    width: 708px;;
+    width: 850px;;
 font-size: 70px;
 font-weight: 750;
 }
@@ -28,7 +28,6 @@ width: 634px;
 height: 800px;
 margin-top: 50px;
 margin-right: 200px;
-*/
 } 
 .btn-primary{
     border-radius: 8px;
@@ -41,4 +40,67 @@ color: #FFFFFF;
 font-size: 20px;
 font-weight: 700;
 margin-top: 20px;
+}
+/* main-section */
+.featured{
+    margin-top: 150px;
+}
+.featured-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.featured-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin-bottom: 30px;
+}
+.pink-flower-bg{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+width: 464px;
+height: 538px;
+margin-bottom: 30px;
+
+}
+.picture{
+    width: 310px;
+height: 428px;
+padding:  110px 78px   0px 76px;
+
+}
+.pink-flower-link{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    margin-left: 100px;
+    
+}
+.red-flower-bg{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-bottom: 30px;
+}
+.picture-red{
+padding:  110px 78px   0px 76px;
+}
+.yellow-flower-bg{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    margin-bottom: 30px;
+}
+.images{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
 }
